@@ -1,0 +1,31 @@
+.buttonEffect{
+    width: 100px;
+    height: 25px;
+    background-color:  rgb(212, 183, 194) ;
+    border: none;
+    border-radius: 4px;
+    color: #FFF;
+}
+
+.buttonEffect:hover{
+    width: 105px;
+    height: 26px;
+    background-color: rgb(218, 148, 172);
+
+}
+
+.buttonEffect1{
+    width: 100px;
+    height: 25px;
+    background-color:  rgb(223, 164, 116) ;
+    border: none;
+    border-radius: 4px;
+    color: #FFF;
+}
+
+.buttonEffect1:hover{
+    width: 105px;
+    height: 26px;
+    background-color: rgb(153, 124, 82);
+
+}
